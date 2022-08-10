@@ -1,3 +1,6 @@
 #ignorar a pasta node_modules
 node_modules
 .DS_Store
+
+# dotenv environment variable files
+.env
