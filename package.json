@@ -4,7 +4,7 @@
   "description": "\"a website called secrets to use authentication and security\"",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1" ,
+    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "nodemon app.js"
   },
   "author": "\"Ana Freitas\"",
@@ -14,6 +14,7 @@
     "ejs": "^3.1.8",
     "express": "^4.18.1",
     "mongoose": "^6.5.2",
+    "mongoose-encryption": "^2.1.2",
     "nodemon": "^2.0.19"
   }
 }
