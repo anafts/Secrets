@@ -4,6 +4,9 @@ const mongoose = require ("mongoose");
 const ejs = require("ejs");
 const dotenv = require("dotenv");
 const bcrypt = require('bcryptjs');
+const session = require('express-session')
+const passport = require('passport');
+const passportLocalMongoose = require('passport-local-mongoose');
 
 const salt = bcrypt.genSaltSync(10);
 
