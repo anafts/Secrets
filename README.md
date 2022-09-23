@@ -64,7 +64,7 @@ No projeto, além das tecnologias citadas, também foi usado o EJS, mongoose, o 
 
 <br>
 
-## 👨‍💻 Contribuidores
+## 👨‍💻 Contribuidores:
 
 <table>
   <tr>
