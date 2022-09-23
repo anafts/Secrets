@@ -1,8 +1,8 @@
 <h1 align="center"><a href="#" alt="secrets website"> SECRETS 🗝️ </a></h1>
 
 
-![GitHub repo size](https://img.shields.io/github/repo-size/nafts/Secrets?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/nafts/Secrets?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/anafts/Secrets?style=for-the-badge)
+![GitHub language count](https://img.shields.io/github/languages/count/anafts/Secrets?style=for-the-badge)
 
 ![localhost_3000_](https://user-images.githubusercontent.com/106173948/192028394-f59f0201-37c4-42cb-84e2-3e679bc77ac5.png)
 
