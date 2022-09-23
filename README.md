@@ -12,7 +12,7 @@
 ## 💻 Descrição do projeto:
 
 O projeto é um website criado para confissões anônimas.
-O Secrets foi desenvolvido com o objetivo de por em pratica os conceitos de autenticação e segurança; 
+O Secrets foi desenvolvido com o objetivo de pôr em pratica os conceitos de autenticação e segurança.
  
 <br>
  
